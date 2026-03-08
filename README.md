@@ -5,7 +5,7 @@ This repository hosts three toy RL projects in rectangle alignment.
 ## Notes
 Study notes for reinforcement learning:
 see [Project Wiki](https://github.com/sucharush/rl-ex/wiki).
-Or [here](https://sucharush.github.io/rl_ex/) for proper rendering.
+Or [here](https://sucharush.github.io/rl-ex/) for proper rendering.
 
 ## Quick Start
 ```bash
